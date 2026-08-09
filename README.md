@@ -17,7 +17,7 @@ This platform delivers a complete online tech store experience—featuring dynam
 - **Interactive Product Catalog:** Filter, search, and view granular product details including pricing, ratings, and descriptions.
 -------------------<img width="709" height="862" alt="image" src="https://github.com/user-attachments/assets/26c0cfd7-7dd1-44a5-a16d-a225e7dae824" />
 - **Smart Shopping Cart:**
---------------------<img width="940" height="866" alt="image" src="https://github.com/user-attachments/assets/2503ef4e-9aa1-4621-a242-0ab8b5f57895" />
+<img width="940" height="866" alt="image" src="https://github.com/user-attachments/assets/2503ef4e-9aa1-4621-a242-0ab8b5f57895" />
 
   - Real-time cart badge quantity counter.
   - Subtotal and total price calculations.
