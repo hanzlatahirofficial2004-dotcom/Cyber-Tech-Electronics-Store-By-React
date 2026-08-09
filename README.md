@@ -12,8 +12,13 @@ This platform delivers a complete online tech store experience—featuring dynam
 
 ### 🛍️ Core Shopping Experience
 - **Dynamic API Fetching:** Seamlessly fetches live electronic product data from external APIs and updates loading/error states.
+
+
 - **Interactive Product Catalog:** Filter, search, and view granular product details including pricing, ratings, and descriptions.
+-------------------<img width="709" height="862" alt="image" src="https://github.com/user-attachments/assets/26c0cfd7-7dd1-44a5-a16d-a225e7dae824" />
 - **Smart Shopping Cart:**
+--------------------<img width="940" height="866" alt="image" src="https://github.com/user-attachments/assets/2503ef4e-9aa1-4621-a242-0ab8b5f57895" />
+
   - Real-time cart badge quantity counter.
   - Subtotal and total price calculations.
   - Dynamic item increment, decrement, and item removal functions.
@@ -21,14 +26,20 @@ This platform delivers a complete online tech store experience—featuring dynam
 
 ### 💳 3-Step Checkout Flow
 - **Step 1: Address Manager (Dynamic CRUD)**
+--------------------<img width="1402" height="842" alt="image" src="https://github.com/user-attachments/assets/6290ebcb-ba1d-4479-a4e6-652f8def32cc" />
+
   - Select active shipping addresses with interactive card selection.
   - Add new delivery addresses via a pop-up modal.
   - **In-Place Address Editing:** Click on the edit icon (✏️) to pre-fill and modify existing address details dynamically.
   - Delete address options with built-in validation checks.
 - **Step 2: Shipping Method Selection**
+--------------------<img width="1403" height="811" alt="image" src="https://github.com/user-attachments/assets/341f0c01-5537-4fd4-a538-5627f9da92e2" />
+
   - Interactive choice between Free Delivery, Express Shipping ($8.50), and Scheduled Delivery.
   - Real-time top navigation progression (Swaps from *Address → Shipping* to *Shipping → Payment*).
 - **Step 3: Interactive Payment Gateway**
+--------------------<img width="1124" height="864" alt="image" src="https://github.com/user-attachments/assets/730bfbb5-e814-4f5c-adc6-d2da4aa19d3c" />
+
   - Multi-payment support tabs: **Credit Card**, **PayPal**, and **PayPal Credit**.
   - **Live ATM Card Preview:** User inputs (Cardholder Name, Card Number) render in real-time on top of a styled credit card preview.
   - "Same as billing address" checkbox integration.
@@ -36,6 +47,8 @@ This platform delivers a complete online tech store experience—featuring dynam
 ---
 
 ## 🛠️ Tech Stack & Architecture
+-------------------<img width="1056" height="867" alt="image" src="https://github.com/user-attachments/assets/17dabaeb-a5d2-4adb-9195-38a85d2c4e96" />
+
 
 - **Frontend Framework:** React.js (Functional Components, Custom Hooks)
 - **State Management:** React Context API (Cart Context, Wishlist Context, Checkout State)
